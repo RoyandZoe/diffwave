@@ -95,3 +95,5 @@ python -m diffwave.inference --fast /path/to/model /path/to/spectrogram -o outpu
 - [DiffWave: A Versatile Diffusion Model for Audio Synthesis](https://arxiv.org/pdf/2009.09761.pdf)
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 - [Code for Denoising Diffusion Probabilistic Models](https://github.com/hojonathanho/diffusion)
+
+""做一个测试，啦啦啦啦""
